@@ -1,0 +1,79 @@
+{
+
+
+
+
+	"references": {
+		"grainfrom": {
+			"Title": "TFDS for Jax and PyTorch  |  TensorFlow Datasets",
+			"Author": "Alphabet",
+			"Address": "https://www.tensorflow.org/datasets/tfless_tfds",
+			"Dated": "June 26th, 2023"
+		},
+		"keyconversion": {
+			"Title": "jax.random module — JAX documentation",
+			"Author": "\"The JAX Authors\" (as seen at the bottom of the page",
+			"Loaded on": "2023.9",
+			"URL": "https://jax.readthedocs.io/en/latest/jax.random.html"
+		},
+		"localization": {
+
+		},
+		"accuracyusage": {
+			"Title": "CommonLoopUtils/clu/metrics.py at main · google/CommonLoopUtils",
+			"Author": "Team that developed/develops Common Loop Utilities",
+			"Loaded on": "October 1st, 2023",
+			"URL": "https://github.com/google/CommonLoopUtils/blob/main/clu/metrics.py"
+		},
+		"reassignment": {
+			"Title": "Main classes",
+			"Author": "Huggingface",
+			"URL": "https://huggingface.co/docs/datasets/package_reference/main_classes",
+			"": "2.14.0 - 2.14.5"
+		}
+	},
+
+
+
+
+	"markers": {
+		"grainfrom": [
+			{
+				"refkey": "grainfrom",
+				"locator": "\"Coming soon: use with JAX\""
+			}
+		],
+		"keyconversion": [
+			{
+				"refkey": "keyconversion",
+				"locator": "\"PRNG Keys\""
+			}
+		],
+		"sectionfromgrainfrom": [
+			{
+				"refkey": "grainfrom",
+				"locator": "\"Use in pure Python\""
+			}
+		],
+		"localization": [
+
+		],
+		"accuracyusage": [
+			{
+				"refkey": "accuracyusage",
+				"locator": "Comment for \"Metric\" class"
+			}
+		],
+		"reassignment": [
+			{
+				"refkey": "reassignment",
+				"locator": "shuffle(...) section for Dataset class"
+			}
+		]
+	}
+
+
+
+
+
+}
